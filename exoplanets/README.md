@@ -9,6 +9,7 @@ From the following database:
 * [Description of columns](https://exoplanetarchive.ipac.caltech.edu/docs/API_exoplanet_columns.html)
 
 The following columns are kept in the final database
+
 | Name | Description
 |------|-------------
 | pl_discmethod | Discovery method
@@ -46,6 +47,4 @@ of what the resulting Tableau dashboard looks like.
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
   </object>
-  <script type='text/javascript'>                    var divElement = document.getElementById('viz1574175060684');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='977px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
 </div>
