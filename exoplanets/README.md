@@ -29,7 +29,6 @@ shows how the data is downloaded and what versions of the various modules I used
 and when I downloaded the data. Below you should be able to see a simple example
 of what the resulting Tableau dashboard looks like.
 
-
 <div class='tableauPlaceholder' id='viz1574175060684' style='position: relative'>
   <noscript>
     <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;ExoplanetsByObservatoryMethod&#47;ExoplanetsbyObservatoryMethod&#47;1_rss.png' style='border: none' /></a>

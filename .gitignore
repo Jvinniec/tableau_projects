@@ -1,0 +1,6 @@
+# Ignore vscode stuff
+**/.vscode
+
+# Ignore data files. These are usually too big and 
+**/*.csv
+**/*.txt
