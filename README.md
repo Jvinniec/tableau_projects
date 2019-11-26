@@ -1,5 +1,5 @@
 This repository is a collection of the tools and scripts I've written to generate
-various Tableau visualizations. You can check out my work here:
+various Tableau visualizations. You can check out my Tableau Public profile here:
 * https://public.tableau.com/profile/jvcardenzana#!/
 
 ## Projects
@@ -7,7 +7,8 @@ Here is a table summarizing my projects:
 
 | Project Name | Description
 |--------------|-------------
-| [Exoplanet Discoveries](exoplanets/README.md) | A visualization of confirmed exoplanets by observatory and method of discovery.
+| [Satellite positions](active_satellites/) | Satellites based on their distance from the Earth. Also includes several interesting satellite groups.
+| [Exoplanet Discoveries](exoplanets/) | A visualization of confirmed exoplanets by observatory and method of discovery.
 
 ## Resources
 Here are some interesting resources on using Tableau
