@@ -1,0 +1,18 @@
+{
+  "name": "gw2tradingposttableau",
+  "version": "1.0.0",
+  "description": "Connect to GW2 trading post data from Tableau.",
+  "scripts": {
+    "corsproxy": "export CORSPROXY_PORT=8889 || set CORSPROXY_PORT=8889 && node node_modules/corsproxy/bin/corsproxy",
+    "http-server": "node node_modules/http-server/bin/http-server -p 8888 -c-1",
+    "start": "node node_modules/npm-run-all/bin/npm-run-all --parallel corsproxy http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "corsproxy": "^1.4.0",
+    "http-server": "^0.12.0",
+    "npm-run-all": "^2.1.1"
+  }
+}
