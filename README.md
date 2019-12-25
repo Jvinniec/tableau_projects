@@ -7,6 +7,7 @@ Here is a table summarizing my projects:
 
 | Project Name | Description
 |--------------|-------------
+| [Child Poverty in America](child_poverty_rate/) | A visualization showing the child poverty rate in America over three time epochs.
 | [Guild Wars 2 Trading Post Query](guildwars2_buy_sell/) | A web data connector that pulls data from the Guild Wars 2 commerce and items APIs and JOINs the results into a Tableau sheet.
 | [Satellite positions](active_satellites/) | Satellites based on their distance from the Earth. Also includes several interesting satellite groups.
 | [Exoplanet Discoveries](exoplanets/) | A visualization of confirmed exoplanets by observatory and method of discovery.
